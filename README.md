@@ -7,11 +7,11 @@ Hackerrank Solutions of  "30 Days of Code Challenges " in Java , Python , C , C#
 3. Day 2: Operators
 4. Day 3: Intro to Conditional Statements
 5. Day 4: Class vs. Instance
-6.
-7.
-8.
-9.
-10.
+6. Day 5: Loops
+7. Day 6: Let's Review
+8. Day 7: Arrays
+9. Day 8: Dictionaries and Maps
+10. Day 9: Recursion
 11.
 12.
 13.
